@@ -2,7 +2,7 @@
 Tugas matkul Praktikum Pmerograman Jaringan
 
 # Objektif
-Mengirim pesan berupa objek yang bisa di baca server (complete)
+Mengirim pesan berupa objek yang bisa di baca server (complete)\
 Mengirim data dalam 1 kali setiap data (failed)
 
 # Kesulitan
