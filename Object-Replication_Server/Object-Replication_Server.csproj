@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Object_Replication_Server</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Object-Replication_Solution\ClassLibrary\ClassLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary">
+      <HintPath>..\Object-Replication_Solution\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
